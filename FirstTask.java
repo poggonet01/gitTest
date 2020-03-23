@@ -1,4 +1,4 @@
-package com.LaboratorJava.se.task1;
+package com
 
 public class FirstTask {
 
